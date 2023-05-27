@@ -1,0 +1,9 @@
+	Navbar :
+Home	index
+Story	about
+Services	menu
+Guidelines	
+Contact
+Reservation
+
+
